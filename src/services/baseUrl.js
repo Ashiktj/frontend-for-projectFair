@@ -1,0 +1,1 @@
+export const base_url ="https://backend-for-project-fair-kus3.onrender.com"
